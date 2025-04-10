@@ -2,4 +2,4 @@
 selective_scan for windows
 
 To install, use:
-  pip install .
+    pip install .
